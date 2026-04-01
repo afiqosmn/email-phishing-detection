@@ -27,6 +27,7 @@ Thumbs.db
 /app/Http/Middleware/dump
 /app/Models/dump
 /app/Services/dump
+/database/dump
 
 # Project-specific files
 cacert.pem
